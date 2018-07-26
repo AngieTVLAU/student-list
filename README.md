@@ -8,6 +8,7 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 * Chen Cheng 
 
 ## Attending students, assistants, teacher-track students
+* Angie Lau -- Narramur Founder|Chief Narrator -- Student
 * Robert Schwentker -- https://dlt.education
 * Mariya Mego Vela -- Galvanize Web Immersive
 * Christina Maldonado -- Student
